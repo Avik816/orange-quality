@@ -9,6 +9,7 @@ This project focuses on predicting the **quality rating of oranges** based on va
 ```
 orange_quality_project/
 ├── orange quality rating.ipynb   # Main notebook with complete ML pipeline
+├── Orange Quality Data.csv       # Dataset
 ├── requirements.txt              # Required Python libraries
 └── README.md                     # This file
 ```
