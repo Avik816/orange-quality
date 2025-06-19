@@ -62,7 +62,7 @@ jupyter notebook "orange quality rating.ipynb"
 
 ## 🔍 Dataset
 
-The dataset is assumed to contain various physicochemical properties of oranges (e.g., size, color, acidity, etc.) and a quality rating label. These attributes are used to build predictive models.
+The dataset contains various physicochemical properties of oranges (e.g., size, color, acidity, etc.) and a quality rating label. These attributes are used to build predictive models.
 
 ---
 
